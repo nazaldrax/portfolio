@@ -6,7 +6,8 @@
   // HIDE LIST: type the repo names you do NOT want to show (exact GitHub name, any case).
   // Example: var HIDE = ['portfolio', 'old-test', 'my-secret-repo'];
   var HIDE = [
-    'portfolio'
+    'portfolio',
+    'jack'
   ];
   // ------------------
 
